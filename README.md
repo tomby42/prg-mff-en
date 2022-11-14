@@ -19,3 +19,7 @@ To pass this class, you must fulfill the following requirements by Friday, Febru
 - Write a program in Python as a semester project. Your program should accomplish something that is interesting, cool, or fun and can be 100-300 lines long, or longer if you like. Please send your tutorial teacher a 1-2 paragraph project proposal by __Sunday, December 4__. A first working version of your project is due by __Sunday, January 22__ and a final version by __Sunday, January 29__.
 
 - Regularly attend the lectures and tutorials and participate in class.
+
+
+Gists:
+* https://gist.github.com/tomby42/6749beae5c1dea147da9281f0c881c71
